@@ -1,0 +1,33 @@
+.container{
+    width:80%;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    font-family: 'Lobster';
+    font-size: 5rem;
+    color: #eadca6;
+
+}
+.dice{
+  
+    display: inline-block;
+}
+img{
+    width: 60%;
+}
+body{
+    background-color: #8bbabb;
+}
+p{  
+    font-size: 2rem;
+    padding: 5px;
+    color: #eadca6;
+}
+
+footer{
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    text-align: center;
+    color: #ffffff;
+}
